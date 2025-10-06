@@ -1,4 +1,5 @@
-import ImgUpload from './assets/Components/imgUpload'
+import ImgUpload from "./assets/Components/ImgUpload";
+
 import Button from './assets/Components/Button'
 
 function App() {
